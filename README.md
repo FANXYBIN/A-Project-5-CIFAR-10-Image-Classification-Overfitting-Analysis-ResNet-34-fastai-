@@ -11,7 +11,7 @@ By intentionally causing overtraining and then applying prevention techniques, t
 
 <div align="center">
   <img src="images/cifar10_dataset.png" width="650"/>
-  <p><em>Training vs. validation loss curve showing early signs of overfitting.</em></p>
+  <p><em>CIFAR10 Dataset Sample.</em></p>
 </div>
 
 ---
